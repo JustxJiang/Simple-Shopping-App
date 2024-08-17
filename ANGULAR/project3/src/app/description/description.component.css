@@ -1,0 +1,63 @@
+.formcontrol{
+    margin: 30px auto;
+    font-family: Arial, sans-serif;
+    color: whitesmoke;
+    display: block;
+}
+.name{
+    font-size: 36px;
+}
+.mini_description{
+    font-size: 12px;
+    margin-top: -30px;
+}
+.old_price{
+    color: rgb(219, 201, 201);
+    font-weight: bold;
+    font-size: 25px;
+}
+.price{
+    color: rgb(194, 33, 33);
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.available{
+    color: rgb(255, 108, 108);
+    font-size: 12.5px;
+}
+#quantity{
+    width: 15%;
+    font-weight: bold;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px;
+
+}
+.submit{
+    font-weight: bold;
+    width: 50%;
+    background-color: lightblue;
+    padding: 20px;
+    box-shadow: 0px 0px 2px rgb(0, 0, 0);
+}
+.submit:hover{
+    color: black;
+    background-color: rgb(56, 104, 121);
+    cursor: pointer;
+}
+.error{
+    background-color: #ff0000;
+    width: 60%;
+    height: 50px;
+    padding: 5px;
+    margin-top: -20px;
+    font-weight: lighter;
+    font-family: Trebuchet MS, sans-serif;
+}
+.submit:disabled{
+    background-color: rgb(20, 50, 112);
+    color:black;
+    opacity: 0.8;
+    cursor:default;
+}
