@@ -1,4 +1,4 @@
-Simple Shopping App
+<b>Simple Shopping App</b>
 
 Shopping Cart App is a mini project built using Angular to demonstrate basic validation in a shopping app/cart scenario. This application allows users to add items to the cart, but with the constraint that they cannot add more than the available quantity. If the user tries to add more than what’s available, an error message is shown. The app is intended to showcase validation features, such as handling out-of-stock situations and quantity checks.
 
