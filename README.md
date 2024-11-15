@@ -11,12 +11,14 @@ Basic Validation: The app demonstrates validation logic, ensuring correct behavi
 
 
 Technologies Used
+
 Angular: The core framework for building the application.
 TypeScript: A superset of JavaScript used for type safety and better tooling.
 HTML/CSS: For structuring and styling the application.
 
 
 Installation
+
 Clone the repository:
 Copy code
 git clone https://github.com/JustxJiang/Simple-Shopping-App.git   or download zip file.
