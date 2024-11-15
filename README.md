@@ -12,7 +12,7 @@ Shopping Cart App is a mini project built using Angular to demonstrate basic val
 
 <h4>Technologies Used</h4>
 
-<b>Angular:</b> The core framework for building the application.</n>
+<b>Angular:</b> The core framework for building the application.<\n>
 <b>TypeScript:</b> A superset of JavaScript used for type safety and better tooling.
 <b>HTML/CSS:</b> For structuring and styling the application.
 
