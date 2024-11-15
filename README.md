@@ -39,7 +39,6 @@ The application will be available at http://localhost:4200.
 - No checkout functionality is implemented; the app only demonstrates the cart behavior and validation.
 
 
-<h2>Components</h2>
+<h2>Component(s)</h2>
 
-AppComponent: Shows the shopping cart and the available quantity for the product.
-Error Handling: Displays an error message when a user attempts to add more items than are available.
+- AppComponent: Shows the shopping cart and the available quantity for the product.
